@@ -16,7 +16,7 @@ export default function IndexPage() {
         <title>The Cat</title>
       </Head>
       <h1>The Cat (AMP-first Page)</h1>
-      <Byline author="Dan Zajdband" />
+      <Byline author="Noctis" />
       <p className="caption">Meowwwwwwww</p>
       <amp-img
         alt="Mountains"
