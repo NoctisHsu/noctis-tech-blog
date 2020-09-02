@@ -14,6 +14,8 @@ export default function IndexPage() {
     <Layout>
       <Head>
         <title>The Cat</title>
+        <meta name="google-site-verification" content="uO3yPa25HkL41k8rkruyEV6secmliH1hD93WhIB6nig" />
+        <link href="https://cdn.jsdelivr.net/npm/@zeit-ui/themes@latest/index.css" rel="stylesheet" />
       </Head>
       <h1>The Cat (AMP-first Page)</h1>
       <Byline author="Noctis" />
